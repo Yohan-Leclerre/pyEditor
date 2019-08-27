@@ -3,7 +3,7 @@ import os
 import time
 
 #1 for debug mode, 0 for no debug mode
-debug = 1
+debug = 0
 
 if debug == 1:
     print("DEBUGGER ON")
