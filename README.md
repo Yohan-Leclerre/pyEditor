@@ -1,6 +1,6 @@
 # Welcome!
 
-Hello, Thanks for downloading pyEditor!
+Welcome to pyEditor! The Python Notepad!
 
 # Requierments
 
