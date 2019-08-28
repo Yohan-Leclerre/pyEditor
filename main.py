@@ -14,7 +14,6 @@ if debug > 1 or debug < 0:
 
 #Root for main window
 root = Tk(className = "pyEditor")
-root.iconbitmap(r'icon32x32.ico')
 textArea = scrolledtext.ScrolledText(root, width=50, height=30)
 
 #Functions
